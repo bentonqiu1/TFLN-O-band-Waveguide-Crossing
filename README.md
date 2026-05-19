@@ -12,12 +12,10 @@ Read more about this device: TBD
 
 Citation: TBD
 
-## Layout Preview
+## Device
+[Download the GDS layout file](CrossingGDS.gds?raw=1)
 
 ![TFLN O-band waveguide crossing layout](CrossingGDSImage.png)
 
-## Files
-
-[Download the GDS layout file](CrossingGDS.gds?raw=1)
 
 
